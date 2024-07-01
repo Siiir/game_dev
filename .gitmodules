@@ -1,0 +1,6 @@
+[submodule "bevy_fancy_cursor"]
+	path = bevy_fancy_cursor
+	url = git@github.com:Siiir/bevy_fancy_cursor.git
+[submodule "brick_bird"]
+	path = brick_bird
+	url = git@github.com:Siiir/brick_bird.git
