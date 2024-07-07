@@ -13,6 +13,6 @@ playable, simple, cross-platform **game**, programmed in Rust.
 Own game engine. Games & simulations using it are in `examples` submodule.  
 Uses CPU-based rendering on **Swing**'s `JPanel`.
 
-### Game dev in Unity Engine
-This section will be expanded when I find time to dig my Unity projects out.
+### [Unity projects](https://github.com/Siiir/unity)
+TODO: This section will be expanded to tell briefly about my Unity projects.
 
