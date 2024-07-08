@@ -14,5 +14,3 @@ Own game engine. Games & simulations using it are in `examples` submodule.
 Uses CPU-based rendering on **Swing**'s `JPanel`.
 
 ### [Unity projects](https://github.com/Siiir/unity)
-TODO: This section will be expanded to tell briefly about my Unity projects.
-
