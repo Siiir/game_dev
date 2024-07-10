@@ -1,6 +1,6 @@
 # My game/simulation projects
 
-## Contests
+## Contents
 
 ### [brick_bird](https://github.com/Siiir/brick_bird) game
 playable, simple, cross-platform **game**, programmed in Rust.  
